@@ -1,3 +1,3 @@
 # wearealive
 
-update: 2024 an we are still here
+update: 2024 and we are still here
